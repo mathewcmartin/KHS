@@ -23,7 +23,7 @@ Video Image Key[V="Video"]
 
 > Today, Kenmore Air Harbor is the largest seaplane operation in the country.
 
-[Image V.2.1946.p.3] Top Left image of 3: "1946", Image Text: [Kenmore O.K'd AS PLANE BASE](https://github.com/mathewcmartin/KHS/blob/master/Chimera/KenmoreOKdAsPlaneBase1946.md), Source: _**Kenmore Air Harbor: A Media-Photo History 1946 - 2012**_ 
+[Image V.2.1946.p.3] Top Left image of 3: "1946", Image Text: [Kenmore O.K'd AS PLANE BASE](https://github.com/mathewcmartin/KHS/blob/master/Chimera/KenmoreOKdAsPlaneBase1946.md), Source: _**Kenmore Air Harbor: A Media-Photo History 1946 - 2012**_
 
 [Image V.3.1946.p.5] Top image of 2: "Jack Mines, Reg Collins, Bob Munro The three Founders of Kenmore Air Harbor 1946"
 
@@ -45,7 +45,7 @@ Video Image Key[V="Video"]
 
 [Image V.12.1947.p.10] Top image of 2: "1947"
 
-[Image V.13.1948.p.13] Left image of 2: "Mobile Dealer News August 1948", Video indicates 1950
+[Image V.13.1948.p.13] Left image of 2: "Mobile Dealer News August 1948", Video indicates 1950, Image Text: [From One Airplane to 20](https://github.com/mathewcmartin/KHS/blob/master/Chimera/FromOneAirPlaneTo20.md)
 
 [Image V.14.1950.p.18] Bottom Left image of 3: "Winter 1950"
 
@@ -237,6 +237,8 @@ ___
 
 [Image V.101. Air Formation
 
+## Glacial Logistics
+
 [Image V.102. Video Caption:
 > In 1953, Bob Munro, Bill Fisk and Paul Garner conducted an unique airborne operation with a SeeBee and two Norseman seaplanes.
 
@@ -280,7 +282,7 @@ ___
 
 [Image V.119.
 
-## Glacial Logistics
+
 
 ___
 
