@@ -1,4 +1,4 @@
-# Kenmore Air Harbor Float Plane Capitol of the Nation
+# Kenmore Air Harbor Float Plane Capital of the Nation
 
 by Dave Gering
 Northshore Citizen Newspaper
