@@ -7,7 +7,7 @@ June 25, 1953
 
 > A mining camp high on a Candanian Coast range glacier recently was completely outfitted in a unique airborne operation by Kenmore Air Harbor Planes.
 
-> What made the operation so unusual was the "landing strip" of the float-equipped planes-- merely the snow covered surgace of the glacier itself.
+> What made the operation so unusual was the "landing strip" of the float-equipped planes-- merely the snow covered surface of the glacier itself.
 
 > Ordinary land planes were out of the question because of the difficult location of the camp. Ski-equipped planes could not be used since there was no snow at Ketchikan from which to take off.
 
@@ -32,3 +32,8 @@ June 25, 1953
 Three images of the Leduc glacier, the mining camp and the float planes involved were included with the article. With the accompanying caption:
 
 > A complete mining camp was moved to the Canadian glacier shown in the above photos. Top picture is a staged picture according to pilot Bill Fisk, who took the pictures. Usually only one plane was on the glacier at a time. The second picture shows the many tracks left by the planes' floats on landing. The bottom shot is a portion of the miners' camp.
+
+Image URIs:
+https://drive.google.com/file/d/1Cz8EfZYvOtEgDh1BKQb-RkDL74BMVt-S/view?usp=sharing
+
+https://drive.google.com/file/d/167G_Jw2nBS7-Q5qKH0SaONVTBS6-OokQ/view?usp=sharing
