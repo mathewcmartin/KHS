@@ -13,15 +13,16 @@ Video Image Key[V="Video"]
 [Supporting Material S.2.1.1945]  page 2. Image text: [Seaplane Base Plan Rejected 1945](https://github.com/mathewcmartin/KHS/blob/master/Chimera/SeaplaneBasePlanRejected1945.md), Source: _**Kenmore Air Harbor: A Media-Photo History 1946 - 2012**_
 
 [Image V.1.1945.p.2] Left Image of 3: Video Caption:
-> In 1946, Jack Mines, Reg Collins and Bob Munro leased an old shingle mill site on the north end of Lake Washington and started a base for seaplanes.
 
-> Their first aircraft was a 36hp Aeronca K.
+>In 1946, Jack Mines, Reg Collins and Bob Munro leased an old shingle mill site on the north end of Lake Washington and started a base for seaplanes.
 
-> Within six months Bob Munro was left with full responsibility for the endeavor.
+>Their first aircraft was a 36hp Aeronca K.
 
-> With high ethical standards, patience, courage, and tenacity, he guided the business for over 53 years.
+>Within six months Bob Munro was left with full responsibility for the endeavor.
 
-> Today, Kenmore Air Harbor is the largest seaplane operation in the country.
+>With high ethical standards, patience, courage, and tenacity, he guided the business for over 53 years.
+
+>Today, Kenmore Air Harbor is the largest seaplane operation in the country.
 
 [Image V.2.1946.p.3] Top Left image of 3: "1946", Image Text: [Kenmore O.K'd AS PLANE BASE](https://github.com/mathewcmartin/KHS/blob/master/Chimera/KenmoreOKdAsPlaneBase1946.md), Source: _**Kenmore Air Harbor: A Media-Photo History 1946 - 2012**_
 
